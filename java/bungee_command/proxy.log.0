@@ -1,0 +1,484 @@
+20:46:31 [INFO] Enabled BungeeCord version unknown
+20:46:33 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+20:46:33 [INFO] Listening websockets on /0.0.0.0:1
+20:46:34 [INFO] Server bans.txt changed, it will be reloaded automatically
+20:46:34 [INFO] Listening on /127.11.0.1:44495
+20:46:34 [INFO] Reload complete
+20:55:04 [INFO] Enabled BungeeCord version unknown
+20:55:06 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+20:55:06 [INFO] Listening websockets on /0.0.0.0:1
+20:55:07 [INFO] Server bans.txt changed, it will be reloaded automatically
+20:55:07 [INFO] Reload complete
+20:55:07 [INFO] Listening on /127.11.0.1:33399
+20:55:27 [INFO] websocket opened - /127.0.0.1:60942
+20:55:27 [INFO] requested motd - /127.0.0.1
+20:55:28 [INFO] websocket closed - /127.0.0.1:60942
+20:55:28 [INFO] websocket opened - /127.0.0.1:60944
+20:55:29 [INFO] connection is binary - /127.0.0.1
+20:55:29 [INFO] [ViggYigg21] <-> InitialHandler has connected
+20:55:29 [INFO] Player 'ViggYigg21' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+20:55:29 [INFO] [ViggYigg21] <-> ServerConnector [lobby] has connected
+20:56:03 [INFO] websocket opened - /127.0.0.1:60946
+20:56:03 [INFO] requested motd - /127.0.0.1
+20:56:03 [INFO] websocket closed - /127.0.0.1:60946
+20:56:29 [INFO] websocket opened - /127.0.0.1:60948
+20:56:29 [INFO] connection is binary - /127.0.0.1
+20:56:29 [INFO] [MilkCafe] <-> InitialHandler has connected
+20:56:29 [INFO] Player 'MilkCafe' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+20:56:29 [INFO] [MilkCafe] <-> ServerConnector [lobby] has connected
+21:00:31 [INFO] websocket closed - null
+21:00:31 [INFO] [ViggYigg21] -> UpstreamBridge has disconnected
+21:00:31 [INFO] [ViggYigg21] <-> DownstreamBridge <-> [lobby] has disconnected
+21:00:38 [INFO] websocket opened - /127.0.0.1:60950
+21:00:38 [INFO] requested motd - /127.0.0.1
+21:00:38 [INFO] websocket closed - /127.0.0.1:60950
+21:04:42 [WARNING] [MilkCafe] -> UpstreamBridge - read timed out
+21:04:42 [INFO] [MilkCafe] disconnected with: ReadTimeoutException : null
+21:04:42 [INFO] [MilkCafe] -> UpstreamBridge has disconnected
+21:04:42 [INFO] [MilkCafe] <-> DownstreamBridge <-> [lobby] has disconnected
+21:05:21 [INFO] websocket closed - /127.0.0.1:60948
+21:05:22 [INFO] websocket opened - /127.0.0.1:60952
+21:05:22 [INFO] requested motd - /127.0.0.1
+21:05:22 [INFO] websocket closed - /127.0.0.1:60952
+21:06:41 [INFO] websocket opened - /127.0.0.1:60956
+21:06:41 [INFO] connection is binary - /127.0.0.1
+21:06:41 [INFO] [MilkCafe] <-> InitialHandler has connected
+21:06:41 [INFO] Player 'MilkCafe' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:06:41 [INFO] [MilkCafe] <-> ServerConnector [lobby] has connected
+21:07:43 [WARNING] [MilkCafe] -> UpstreamBridge - read timed out
+21:07:43 [INFO] [MilkCafe] disconnected with: ReadTimeoutException : null
+21:07:43 [INFO] [MilkCafe] -> UpstreamBridge has disconnected
+21:07:43 [SEVERE] Mar 31, 2022 9:07:43 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+21:07:43 [SEVERE] Mar 31, 2022 9:07:43 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 0 channel(s) to the new Selector.
+
+21:07:43 [INFO] [MilkCafe] <-> DownstreamBridge <-> [lobby] has disconnected
+21:07:51 [INFO] websocket closed - /127.0.0.1:60956
+21:08:17 [INFO] websocket opened - /127.0.0.1:60958
+21:08:17 [INFO] requested motd - /127.0.0.1
+21:08:17 [INFO] websocket closed - /127.0.0.1:60958
+21:08:24 [INFO] websocket opened - /127.0.0.1:60960
+21:08:25 [INFO] requested motd - /127.0.0.1
+21:08:25 [INFO] websocket closed - /127.0.0.1:60960
+21:08:29 [INFO] websocket opened - /127.0.0.1:60962
+21:08:29 [INFO] requested motd - /127.0.0.1
+21:08:29 [INFO] websocket closed - /127.0.0.1:60962
+21:10:17 [INFO] websocket opened - /127.0.0.1:60964
+21:10:17 [INFO] requested motd - /127.0.0.1
+21:10:17 [INFO] websocket closed - /127.0.0.1:60964
+21:10:22 [INFO] websocket opened - /127.0.0.1:60966
+21:10:23 [INFO] connection is binary - /127.0.0.1
+21:10:23 [INFO] [ViggYigg21] <-> InitialHandler has connected
+21:10:23 [INFO] Player 'ViggYigg21' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:10:23 [INFO] [ViggYigg21] <-> ServerConnector [lobby] has connected
+21:10:30 [INFO] websocket opened - /127.0.0.1:60968
+21:10:30 [INFO] connection is binary - /127.0.0.1
+21:10:30 [INFO] [MilkCafe] <-> InitialHandler has connected
+21:10:30 [INFO] Player 'MilkCafe' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:10:30 [INFO] [MilkCafe] <-> ServerConnector [lobby] has connected
+21:17:10 [WARNING] [ViggYigg21] -> UpstreamBridge - read timed out
+21:17:10 [INFO] [ViggYigg21] disconnected with: ReadTimeoutException : null
+21:17:10 [INFO] [ViggYigg21] -> UpstreamBridge has disconnected
+21:17:10 [SEVERE] Mar 31, 2022 9:17:10 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+21:17:10 [SEVERE] Mar 31, 2022 9:17:10 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 0 channel(s) to the new Selector.
+
+21:17:10 [INFO] [ViggYigg21] <-> DownstreamBridge <-> [lobby] has disconnected
+21:17:24 [INFO] websocket closed - /127.0.0.1:60968
+21:17:24 [INFO] [MilkCafe] -> UpstreamBridge has disconnected
+21:17:24 [INFO] [MilkCafe] <-> DownstreamBridge <-> [lobby] has disconnected
+21:17:49 [INFO] websocket closed - /127.0.0.1:60966
+21:20:10 [INFO] websocket opened - /127.0.0.1:60972
+21:20:10 [INFO] requested motd - /127.0.0.1
+21:20:10 [INFO] websocket closed - /127.0.0.1:60972
+21:20:18 [INFO] websocket opened - /127.0.0.1:60974
+21:20:19 [INFO] requested motd - /127.0.0.1
+21:20:19 [INFO] websocket closed - /127.0.0.1:60974
+21:21:13 [INFO] websocket opened - /127.0.0.1:60976
+21:21:13 [INFO] requested motd - /127.0.0.1
+21:21:13 [INFO] websocket closed - /127.0.0.1:60976
+21:21:14 [INFO] websocket opened - /127.0.0.1:60978
+21:21:14 [INFO] connection is binary - /127.0.0.1
+21:21:14 [INFO] [MilkCafe] <-> InitialHandler has connected
+21:21:14 [INFO] Player 'MilkCafe' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:21:14 [INFO] [MilkCafe] <-> ServerConnector [lobby] has connected
+21:21:26 [INFO] websocket closed - null
+21:21:26 [INFO] [MilkCafe] -> UpstreamBridge has disconnected
+21:21:26 [INFO] [MilkCafe] <-> DownstreamBridge <-> [lobby] has disconnected
+21:21:33 [INFO] websocket opened - /127.0.0.1:60980
+21:21:34 [INFO] requested motd - /127.0.0.1
+21:21:34 [INFO] websocket closed - /127.0.0.1:60980
+21:21:36 [INFO] websocket opened - /127.0.0.1:60982
+21:21:36 [INFO] connection is binary - /127.0.0.1
+21:21:36 [INFO] [MilkCafe] <-> InitialHandler has connected
+21:21:36 [INFO] Player 'MilkCafe' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:21:36 [INFO] [MilkCafe] <-> ServerConnector [lobby] has connected
+21:31:43 [INFO] websocket opened - /127.0.0.1:60988
+21:31:43 [INFO] connection is binary - /127.0.0.1
+21:31:43 [INFO] [ViggYigg21] <-> InitialHandler has connected
+21:31:43 [INFO] Player 'ViggYigg21' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:31:43 [INFO] [ViggYigg21] <-> ServerConnector [lobby] has connected
+21:31:56 [INFO] websocket closed - null
+21:31:56 [INFO] [ViggYigg21] -> UpstreamBridge has disconnected
+21:31:56 [INFO] [ViggYigg21] <-> DownstreamBridge <-> [lobby] has disconnected
+21:32:03 [INFO] websocket opened - /127.0.0.1:60990
+21:32:03 [INFO] requested motd - /127.0.0.1
+21:32:03 [INFO] websocket closed - /127.0.0.1:60990
+21:32:04 [INFO] websocket opened - /127.0.0.1:60994
+21:32:04 [INFO] connection is binary - /127.0.0.1
+21:32:04 [INFO] [ViggYigg21] <-> InitialHandler has connected
+21:32:04 [INFO] Player 'ViggYigg21' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:32:04 [INFO] [ViggYigg21] <-> ServerConnector [lobby] has connected
+21:33:11 [INFO] websocket closed - null
+21:33:11 [INFO] [ViggYigg21] -> UpstreamBridge has disconnected
+21:33:11 [INFO] [ViggYigg21] <-> DownstreamBridge <-> [lobby] has disconnected
+21:33:18 [INFO] websocket opened - /127.0.0.1:60996
+21:33:18 [INFO] requested motd - /127.0.0.1
+21:33:18 [INFO] websocket closed - /127.0.0.1:60996
+21:33:19 [INFO] websocket opened - /127.0.0.1:60998
+21:33:19 [INFO] connection is binary - /127.0.0.1
+21:33:19 [INFO] [ViggYigg21] <-> InitialHandler has connected
+21:33:19 [INFO] Player 'ViggYigg21' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:33:19 [INFO] [ViggYigg21] <-> ServerConnector [lobby] has connected
+21:35:59 [WARNING] [ViggYigg21] -> UpstreamBridge - read timed out
+21:35:59 [INFO] [ViggYigg21] disconnected with: ReadTimeoutException : null
+21:35:59 [INFO] [ViggYigg21] -> UpstreamBridge has disconnected
+21:35:59 [INFO] [ViggYigg21] <-> DownstreamBridge <-> [lobby] has disconnected
+21:41:10 [INFO] websocket closed - /127.0.0.1:60998
+21:41:44 [INFO] [MilkCafe] -> UpstreamBridge has disconnected
+21:41:44 [INFO] websocket closed - /127.0.0.1:60982
+21:41:44 [WARNING] [MilkCafe] <-> DownstreamBridge <-> [lobby] - IOException: Connection reset by peer
+21:41:44 [INFO] [MilkCafe] <-> DownstreamBridge <-> [lobby] has disconnected
+21:42:32 [INFO] websocket opened - /127.0.0.1:32772
+21:42:32 [INFO] requested motd - /127.0.0.1
+21:42:32 [INFO] websocket closed - /127.0.0.1:32772
+22:01:42 [INFO] websocket opened - /127.0.0.1:32780
+22:01:42 [INFO] connection is binary - /127.0.0.1
+22:01:42 [INFO] [MilkCafe] <-> InitialHandler has connected
+22:01:42 [INFO] Player 'MilkCafe' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+22:01:42 [INFO] [MilkCafe] <-> ServerConnector [lobby] has connected
+22:03:08 [WARNING] [MilkCafe] -> UpstreamBridge - read timed out
+22:03:08 [INFO] [MilkCafe] disconnected with: ReadTimeoutException : null
+22:03:08 [INFO] [MilkCafe] -> UpstreamBridge has disconnected
+22:03:08 [INFO] [MilkCafe] <-> DownstreamBridge <-> [lobby] has disconnected
+22:03:13 [INFO] websocket closed - /127.0.0.1:32780
+22:03:14 [INFO] websocket opened - /127.0.0.1:32782
+22:03:14 [INFO] requested motd - /127.0.0.1
+22:03:14 [INFO] websocket closed - /127.0.0.1:32782
+22:03:16 [INFO] websocket opened - /127.0.0.1:32784
+22:03:16 [INFO] connection is binary - /127.0.0.1
+22:03:16 [INFO] [MilkCafe] <-> InitialHandler has connected
+22:03:16 [INFO] Player 'MilkCafe' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+22:03:16 [INFO] [MilkCafe] <-> ServerConnector [lobby] has connected
+22:04:33 [WARNING] [MilkCafe] -> UpstreamBridge - read timed out
+22:04:33 [INFO] [MilkCafe] disconnected with: ReadTimeoutException : null
+22:04:33 [INFO] [MilkCafe] -> UpstreamBridge has disconnected
+22:04:33 [INFO] [MilkCafe] <-> DownstreamBridge <-> [lobby] has disconnected
+22:04:39 [INFO] websocket closed - /127.0.0.1:32784
+22:04:52 [INFO] websocket opened - /127.0.0.1:32786
+22:04:52 [INFO] requested motd - /127.0.0.1
+22:04:52 [INFO] websocket closed - /127.0.0.1:32786
+22:12:10 [INFO] websocket opened - /127.0.0.1:32788
+22:12:10 [INFO] connection is binary - /127.0.0.1
+22:12:10 [INFO] [MilkCafe] <-> InitialHandler has connected
+22:12:10 [INFO] Player 'MilkCafe' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+22:12:10 [INFO] [MilkCafe] <-> ServerConnector [lobby] has connected
+22:22:34 [INFO] websocket opened - /127.0.0.1:32794
+22:22:34 [INFO] requested motd - /127.0.0.1
+22:22:34 [INFO] websocket closed - /127.0.0.1:32794
+22:22:35 [INFO] websocket opened - /127.0.0.1:32796
+22:22:35 [INFO] connection is binary - /127.0.0.1
+22:22:35 [INFO] [ViggYigg21] <-> InitialHandler has connected
+22:22:35 [INFO] Player 'ViggYigg21' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+22:22:35 [INFO] [ViggYigg21] <-> ServerConnector [lobby] has connected
+22:23:03 [INFO] [ViggYigg21] -> UpstreamBridge has disconnected
+22:23:03 [INFO] websocket closed - /127.0.0.1:32796
+22:23:03 [INFO] [ViggYigg21] <-> DownstreamBridge <-> [lobby] has disconnected
+22:26:35 [INFO] websocket closed - /127.0.0.1:32788
+22:26:35 [INFO] [MilkCafe] -> UpstreamBridge has disconnected
+22:26:35 [INFO] [MilkCafe] <-> DownstreamBridge <-> [lobby] has disconnected
+22:36:19 [INFO] websocket opened - /127.0.0.1:32804
+22:36:19 [INFO] requested motd - /127.0.0.1
+22:36:19 [INFO] websocket closed - /127.0.0.1:32804
+22:50:13 [INFO] websocket opened - /127.0.0.1:32810
+22:50:14 [INFO] requested motd - /127.0.0.1
+22:50:14 [INFO] websocket closed - /127.0.0.1:32810
+22:54:33 [INFO] websocket opened - /127.0.0.1:32812
+22:54:33 [INFO] requested motd - /127.0.0.1
+22:54:33 [INFO] websocket closed - /127.0.0.1:32812
+22:55:02 [INFO] websocket opened - /127.0.0.1:32814
+22:55:02 [INFO] requested motd - /127.0.0.1
+22:55:02 [INFO] websocket closed - /127.0.0.1:32814
+23:02:51 [INFO] websocket opened - /127.0.0.1:32818
+23:02:51 [INFO] requested motd - /127.0.0.1
+23:02:51 [INFO] websocket closed - /127.0.0.1:32818
+23:07:14 [INFO] websocket opened - /127.0.0.1:32820
+23:07:14 [INFO] requested motd - /127.0.0.1
+23:07:14 [INFO] websocket closed - /127.0.0.1:32820
+23:21:51 [INFO] websocket opened - /127.0.0.1:32822
+23:21:51 [INFO] requested motd - /127.0.0.1
+23:21:51 [INFO] websocket closed - /127.0.0.1:32822
+21:54:14 [INFO] Enabled BungeeCord version unknown
+21:54:16 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+21:54:16 [INFO] Listening websockets on /0.0.0.0:1
+21:54:17 [INFO] Server bans.txt changed, it will be reloaded automatically
+21:54:17 [INFO] Reload complete
+21:54:17 [INFO] Listening on /127.11.0.1:36815
+21:54:45 [INFO] websocket opened - /127.0.0.1:33284
+21:54:45 [INFO] websocket closed - /127.0.0.1:33284
+21:54:49 [INFO] websocket opened - /127.0.0.1:33286
+21:54:49 [INFO] websocket closed - /127.0.0.1:33286
+21:55:08 [INFO] websocket opened - /127.0.0.1:33288
+21:55:08 [INFO] connection is binary - /127.0.0.1
+21:55:09 [INFO] websocket closed - /127.0.0.1:33288
+21:55:09 [INFO] [MilkCafe] <-> InitialHandler has connected
+21:55:09 [INFO] WARNING: player 'MilkCafe' doesn't have a websocket IP, remote address: /127.0.0.1:58952
+21:55:09 [INFO] [MilkCafe] -> UpstreamBridge has disconnected
+21:55:09 [INFO] [MilkCafe] <-> ServerConnector [lobby] has connected
+21:55:26 [INFO] websocket opened - /127.0.0.1:33290
+21:55:26 [INFO] connection is binary - /127.0.0.1
+21:55:27 [INFO] [MilkCafe] <-> InitialHandler has connected
+21:55:27 [INFO] Player 'MilkCafe' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:55:27 [INFO] [MilkCafe] <-> ServerConnector [lobby] has connected
+21:55:29 [INFO] [MilkCafe] <-> DownstreamBridge <-> [lobby] has disconnected
+21:55:47 [INFO] [MilkCafe] -> UpstreamBridge has disconnected
+21:55:47 [INFO] websocket closed - null
+21:55:47 [INFO] [MilkCafe] <-> DownstreamBridge <-> [lobby] has disconnected
+21:57:50 [INFO] websocket opened - /127.0.0.1:33296
+21:57:50 [INFO] requested motd - /127.0.0.1
+21:57:51 [INFO] websocket closed - /127.0.0.1:33296
+21:58:10 [INFO] websocket opened - /127.0.0.1:33298
+21:58:10 [INFO] connection is binary - /127.0.0.1
+21:58:10 [INFO] [MilkCafe] <-> InitialHandler has connected
+21:58:10 [INFO] Player 'MilkCafe' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:58:10 [INFO] [MilkCafe] <-> ServerConnector [lobby] has connected
+21:58:16 [INFO] websocket opened - /127.0.0.1:33302
+21:58:16 [INFO] connection is binary - /127.0.0.1
+21:58:16 [INFO] [ViggYigg21] <-> InitialHandler has connected
+21:58:16 [INFO] Player 'ViggYigg21' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:58:16 [INFO] [ViggYigg21] <-> ServerConnector [lobby] has connected
+21:59:53 [INFO] [ViggYigg21] -> UpstreamBridge has disconnected
+21:59:53 [INFO] websocket closed - /127.0.0.1:33302
+21:59:53 [INFO] [ViggYigg21] <-> DownstreamBridge <-> [lobby] has disconnected
+22:00:26 [INFO] websocket opened - /127.0.0.1:33306
+22:00:26 [INFO] connection is binary - /127.0.0.1
+22:00:26 [INFO] [ViggYigg21] <-> InitialHandler has connected
+22:00:26 [INFO] Player 'ViggYigg21' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+22:00:26 [INFO] [ViggYigg21] <-> ServerConnector [lobby] has connected
+22:08:52 [INFO] websocket closed - null
+22:08:52 [INFO] [ViggYigg21] -> UpstreamBridge has disconnected
+22:08:52 [SEVERE] Apr 01, 2022 10:08:52 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+22:08:52 [SEVERE] Apr 01, 2022 10:08:52 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 4 channel(s) to the new Selector.
+
+22:08:52 [INFO] [ViggYigg21] <-> DownstreamBridge <-> [lobby] has disconnected
+22:52:57 [INFO] websocket closed - null
+22:52:57 [INFO] [MilkCafe] -> UpstreamBridge has disconnected
+22:52:57 [INFO] [MilkCafe] <-> DownstreamBridge <-> [lobby] has disconnected
+23:10:42 [INFO] Enabled BungeeCord version unknown
+23:10:44 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+23:10:44 [INFO] Listening websockets on /0.0.0.0:1
+23:10:44 [INFO] Server bans.txt changed, it will be reloaded automatically
+23:10:44 [INFO] Reload complete
+23:10:44 [INFO] Listening on /127.11.0.1:34007
+23:01:28 [INFO] Enabled BungeeCord version unknown
+23:01:30 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+23:01:30 [INFO] Listening websockets on /0.0.0.0:1
+23:01:31 [INFO] Server bans.txt changed, it will be reloaded automatically
+23:01:31 [INFO] Reload complete
+23:01:31 [INFO] Listening on /127.11.0.1:41797
+23:10:18 [INFO] websocket opened - /127.0.0.1:45742
+23:10:18 [INFO] requested motd - /127.0.0.1
+23:10:19 [INFO] websocket closed - /127.0.0.1:45742
+23:34:14 [INFO] websocket opened - /127.0.0.1:45752
+23:34:15 [INFO] connection is binary - /127.0.0.1
+23:34:15 [INFO] [null] <-> InitialHandler has connected
+23:34:15 [INFO] Player 'null' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+23:34:15 [INFO] [null] <-> ServerConnector [lobby] has connected
+23:34:26 [INFO] websocket closed - null
+23:34:26 [INFO] [null] -> UpstreamBridge has disconnected
+23:34:26 [INFO] [null] <-> DownstreamBridge <-> [lobby] has disconnected
+23:34:46 [INFO] websocket opened - /127.0.0.1:45754
+23:34:46 [INFO] requested motd - /127.0.0.1
+23:34:46 [INFO] websocket closed - /127.0.0.1:45754
+23:34:50 [INFO] websocket opened - /127.0.0.1:45756
+23:34:50 [INFO] connection is binary - /127.0.0.1
+23:34:50 [INFO] [null] <-> InitialHandler has connected
+23:34:50 [INFO] Player 'null' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+23:34:50 [INFO] [null] <-> ServerConnector [lobby] has connected
+23:35:14 [INFO] websocket closed - /127.0.0.1:45756
+23:35:14 [INFO] [null] -> UpstreamBridge has disconnected
+23:35:14 [INFO] [null] <-> DownstreamBridge <-> [lobby] has disconnected
+23:35:14 [SEVERE] Apr 02, 2022 11:35:14 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+23:35:14 [SEVERE] Apr 02, 2022 11:35:14 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 1 channel(s) to the new Selector.
+
+23:35:25 [INFO] websocket opened - /127.0.0.1:45758
+23:35:25 [INFO] requested motd - /127.0.0.1
+23:35:25 [INFO] websocket closed - /127.0.0.1:45758
+23:35:27 [INFO] websocket opened - /127.0.0.1:45760
+23:35:27 [INFO] connection is binary - /127.0.0.1
+23:35:27 [INFO] [MilkCafe] <-> InitialHandler has connected
+23:35:27 [INFO] Player 'MilkCafe' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+23:35:27 [INFO] [MilkCafe] <-> ServerConnector [lobby] has connected
+23:36:14 [INFO] websocket opened - /127.0.0.1:45762
+23:36:14 [INFO] requested motd - /127.0.0.1
+23:36:14 [INFO] websocket closed - /127.0.0.1:45762
+23:36:15 [INFO] websocket opened - /127.0.0.1:45764
+23:36:15 [INFO] connection is binary - /127.0.0.1
+23:36:15 [INFO] [MilkCafe] <-> InitialHandler has connected
+23:36:15 [INFO] Player 'MilkCafe' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+23:36:16 [INFO] websocket closed - /127.0.0.1:45764
+23:36:31 [INFO] websocket opened - /127.0.0.1:45766
+23:36:31 [INFO] requested motd - /127.0.0.1
+23:36:31 [INFO] websocket closed - /127.0.0.1:45766
+23:36:31 [INFO] websocket opened - /127.0.0.1:45768
+23:36:31 [INFO] connection is binary - /127.0.0.1
+23:36:31 [INFO] [ViggVigg39] <-> InitialHandler has connected
+23:36:31 [INFO] Player 'ViggVigg39' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+23:36:31 [INFO] [ViggVigg39] <-> ServerConnector [lobby] has connected
+23:36:49 [INFO] [ViggVigg39] disconnected with: [Kicked] Kicked by an operator.
+23:36:49 [INFO] [ViggVigg39] -> UpstreamBridge has disconnected
+23:36:49 [INFO] [ViggVigg39] <-> DownstreamBridge <-> [lobby] has disconnected
+23:36:49 [INFO] websocket closed - /127.0.0.1:45768
+23:36:53 [INFO] websocket opened - /127.0.0.1:45770
+23:36:53 [INFO] requested motd - /127.0.0.1
+23:36:53 [INFO] websocket closed - /127.0.0.1:45770
+23:36:55 [WARNING] [MilkCafe] -> UpstreamBridge - read timed out
+23:36:55 [INFO] [MilkCafe] disconnected with: ReadTimeoutException : null
+23:36:55 [INFO] [MilkCafe] -> UpstreamBridge has disconnected
+23:36:55 [INFO] [MilkCafe] <-> DownstreamBridge <-> [lobby] has disconnected
+23:36:57 [INFO] websocket closed - /127.0.0.1:45760
+23:36:59 [INFO] websocket opened - /127.0.0.1:45772
+23:36:59 [INFO] requested motd - /127.0.0.1
+23:36:59 [INFO] websocket closed - /127.0.0.1:45772
+23:38:25 [INFO] websocket opened - /127.0.0.1:45774
+23:38:25 [INFO] connection is binary - /127.0.0.1
+23:38:25 [INFO] [MilkCafe] <-> InitialHandler has connected
+23:38:25 [INFO] Player 'MilkCafe' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+23:38:25 [INFO] [MilkCafe] <-> ServerConnector [lobby] has connected
+23:38:31 [INFO] [MilkCafe] -> UpstreamBridge has disconnected
+23:38:31 [INFO] websocket closed - /127.0.0.1:45774
+23:38:31 [INFO] [MilkCafe] <-> DownstreamBridge <-> [lobby] has disconnected
+23:38:31 [SEVERE] Apr 02, 2022 11:38:31 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+23:38:31 [SEVERE] Apr 02, 2022 11:38:31 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 1 channel(s) to the new Selector.
+
+23:40:04 [INFO] websocket opened - /127.0.0.1:45776
+23:40:04 [INFO] connection is binary - /127.0.0.1
+23:40:04 [INFO] [ViggVigg39] <-> InitialHandler has connected
+23:40:04 [INFO] Player 'ViggVigg39' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+23:40:04 [INFO] [ViggVigg39] <-> ServerConnector [lobby] has connected
+23:40:26 [INFO] [ViggVigg39] disconnected with: [Kicked] Banned by admin.
+23:40:26 [INFO] [ViggVigg39] -> UpstreamBridge has disconnected
+23:40:26 [INFO] [ViggVigg39] <-> DownstreamBridge <-> [lobby] has disconnected
+23:40:27 [INFO] websocket closed - /127.0.0.1:45776
+23:51:13 [INFO] websocket opened - /127.0.0.1:45778
+23:51:13 [INFO] requested motd - /127.0.0.1
+23:51:13 [INFO] websocket closed - /127.0.0.1:45778
+00:10:18 [INFO] websocket opened - /127.0.0.1:45784
+00:10:18 [INFO] requested motd - /127.0.0.1
+00:10:18 [INFO] websocket closed - /127.0.0.1:45784
+00:22:13 [INFO] Enabled BungeeCord version unknown
+00:22:16 [SEVERE] Exception in thread "main" 
+00:22:16 [SEVERE] java.sql.SQLException: [SQLITE_CORRUPT]  The database disk image is malformed (database disk image is malformed)
+00:22:16 [SEVERE] 	at org.sqlite.DB.newSQLException(DB.java:383)
+00:22:16 [SEVERE] 	at org.sqlite.DB.newSQLException(DB.java:387)
+00:22:16 [SEVERE] 	at org.sqlite.DB.throwex(DB.java:374)
+00:22:16 [SEVERE] 	at org.sqlite.NativeDB.prepare(Native Method)
+00:22:16 [SEVERE] 	at org.sqlite.DB.prepare(DB.java:123)
+00:22:16 [SEVERE] 	at org.sqlite.PrepStmt.<init>(PrepStmt.java:42)
+00:22:16 [SEVERE] 	at org.sqlite.Conn.prepareStatement(Conn.java:404)
+00:22:16 [SEVERE] 	at org.sqlite.Conn.prepareStatement(Conn.java:399)
+00:22:16 [SEVERE] 	at org.sqlite.Conn.prepareStatement(Conn.java:383)
+00:22:16 [SEVERE] 	at net.md_5.bungee.reconnect.SQLReconnectHandler.<init>(SQLReconnectHandler.java:22)
+00:22:16 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:270)
+00:22:16 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:216)
+20:34:30 [INFO] Enabled BungeeCord version unknown
+20:44:41 [INFO] Enabled BungeeCord version unknown
+20:44:44 [SEVERE] Exception in thread "main" 
+20:44:44 [SEVERE] java.sql.SQLException: [SQLITE_CORRUPT]  The database disk image is malformed (database disk image is malformed)
+20:44:44 [SEVERE] 	at org.sqlite.DB.newSQLException(DB.java:383)
+20:44:44 [SEVERE] 	at org.sqlite.DB.newSQLException(DB.java:387)
+20:44:44 [SEVERE] 	at org.sqlite.DB.throwex(DB.java:374)
+20:44:44 [SEVERE] 	at org.sqlite.NativeDB.prepare(Native Method)
+20:44:44 [SEVERE] 	at org.sqlite.DB.prepare(DB.java:123)
+20:44:44 [SEVERE] 	at org.sqlite.PrepStmt.<init>(PrepStmt.java:42)
+20:44:44 [SEVERE] 	at org.sqlite.Conn.prepareStatement(Conn.java:404)
+20:44:44 [SEVERE] 	at org.sqlite.Conn.prepareStatement(Conn.java:399)
+20:44:44 [SEVERE] 	at org.sqlite.Conn.prepareStatement(Conn.java:383)
+20:44:44 [SEVERE] 	at net.md_5.bungee.reconnect.SQLReconnectHandler.<init>(SQLReconnectHandler.java:22)
+20:44:44 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:270)
+20:44:44 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:216)
+21:50:38 [INFO] Enabled BungeeCord version unknown
+21:50:49 [SEVERE] Exception in thread "main" 
+21:50:49 [SEVERE] java.sql.SQLException: [SQLITE_CORRUPT]  The database disk image is malformed (database disk image is malformed)
+21:50:49 [SEVERE] 	at org.sqlite.DB.newSQLException(DB.java:383)
+21:50:49 [SEVERE] 	at org.sqlite.DB.newSQLException(DB.java:387)
+21:50:49 [SEVERE] 	at org.sqlite.DB.throwex(DB.java:374)
+21:50:49 [SEVERE] 	at org.sqlite.NativeDB.prepare(Native Method)
+21:50:49 [SEVERE] 	at org.sqlite.DB.prepare(DB.java:123)
+21:50:49 [SEVERE] 	at org.sqlite.PrepStmt.<init>(PrepStmt.java:42)
+21:50:49 [SEVERE] 	at org.sqlite.Conn.prepareStatement(Conn.java:404)
+21:50:49 [SEVERE] 	at org.sqlite.Conn.prepareStatement(Conn.java:399)
+21:50:49 [SEVERE] 	at org.sqlite.Conn.prepareStatement(Conn.java:383)
+21:50:49 [SEVERE] 	at net.md_5.bungee.reconnect.SQLReconnectHandler.<init>(SQLReconnectHandler.java:22)
+21:50:49 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:270)
+21:50:49 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:216)
+20:12:38 [INFO] Enabled BungeeCord version unknown
+20:12:41 [SEVERE] Notice: this server has the stats UUID "595698b3-9c36-4e86-b1ee-cb3027038f41" which is a known duplicate
+20:12:41 [SEVERE] It has been updated to "337a1d39-82cb-4c00-8459-79ed95f82932". This is not an error
+20:12:42 [SEVERE] Exception in thread "main" 
+20:12:42 [SEVERE] java.sql.SQLException: [SQLITE_CORRUPT]  The database disk image is malformed (database disk image is malformed)
+20:12:42 [SEVERE] 	at org.sqlite.DB.newSQLException(DB.java:383)
+20:12:42 [SEVERE] 	at org.sqlite.DB.newSQLException(DB.java:387)
+20:12:42 [SEVERE] 	at org.sqlite.DB.throwex(DB.java:374)
+20:12:42 [SEVERE] 	at org.sqlite.NativeDB.prepare(Native Method)
+20:12:42 [SEVERE] 	at org.sqlite.DB.prepare(DB.java:123)
+20:12:42 [SEVERE] 	at org.sqlite.PrepStmt.<init>(PrepStmt.java:42)
+20:12:42 [SEVERE] 	at org.sqlite.Conn.prepareStatement(Conn.java:404)
+20:12:42 [SEVERE] 	at org.sqlite.Conn.prepareStatement(Conn.java:399)
+20:12:42 [SEVERE] 	at org.sqlite.Conn.prepareStatement(Conn.java:383)
+20:12:42 [SEVERE] 	at net.md_5.bungee.reconnect.SQLReconnectHandler.<init>(SQLReconnectHandler.java:22)
+20:12:42 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:229)
+20:12:42 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:212)
+21:18:41 [INFO] Enabled BungeeCord version unknown
+21:18:42 [SEVERE] Exception in thread "main" 
+21:18:42 [SEVERE] java.sql.SQLException: [SQLITE_CORRUPT]  The database disk image is malformed (database disk image is malformed)
+21:18:42 [SEVERE] 	at org.sqlite.DB.newSQLException(DB.java:383)
+21:18:42 [SEVERE] 	at org.sqlite.DB.newSQLException(DB.java:387)
+21:18:42 [SEVERE] 	at org.sqlite.DB.throwex(DB.java:374)
+21:18:42 [SEVERE] 	at org.sqlite.NativeDB.prepare(Native Method)
+21:18:42 [SEVERE] 	at org.sqlite.DB.prepare(DB.java:123)
+21:18:42 [SEVERE] 	at org.sqlite.PrepStmt.<init>(PrepStmt.java:42)
+21:18:42 [SEVERE] 	at org.sqlite.Conn.prepareStatement(Conn.java:404)
+21:18:42 [SEVERE] 	at org.sqlite.Conn.prepareStatement(Conn.java:399)
+21:18:42 [SEVERE] 	at org.sqlite.Conn.prepareStatement(Conn.java:383)
+21:18:42 [SEVERE] 	at net.md_5.bungee.reconnect.SQLReconnectHandler.<init>(SQLReconnectHandler.java:22)
+21:18:42 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:229)
+21:18:42 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:212)
+20:19:43 [INFO] Enabled BungeeCord version unknown
+20:19:44 [SEVERE] Exception in thread "main" 
+20:19:44 [SEVERE] java.sql.SQLException: [SQLITE_CORRUPT]  The database disk image is malformed (database disk image is malformed)
+20:19:44 [SEVERE] 	at org.sqlite.DB.newSQLException(DB.java:383)
+20:19:44 [SEVERE] 	at org.sqlite.DB.newSQLException(DB.java:387)
+20:19:44 [SEVERE] 	at org.sqlite.DB.throwex(DB.java:374)
+20:19:44 [SEVERE] 	at org.sqlite.NativeDB.prepare(Native Method)
+20:19:44 [SEVERE] 	at org.sqlite.DB.prepare(DB.java:123)
+20:19:44 [SEVERE] 	at org.sqlite.PrepStmt.<init>(PrepStmt.java:42)
+20:19:44 [SEVERE] 	at org.sqlite.Conn.prepareStatement(Conn.java:404)
+20:19:44 [SEVERE] 	at org.sqlite.Conn.prepareStatement(Conn.java:399)
+20:19:44 [SEVERE] 	at org.sqlite.Conn.prepareStatement(Conn.java:383)
+20:19:44 [SEVERE] 	at net.md_5.bungee.reconnect.SQLReconnectHandler.<init>(SQLReconnectHandler.java:22)
+20:19:44 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:229)
+20:19:44 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:212)
