@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+bash removeconfig.sh
 #change the following to "false" to disable auto web updates
 updcheck="true"
 #change the following to "false" to disable all replacements (e.g. changing the default server, ensuring bungeecord is on the right port, etc.)
