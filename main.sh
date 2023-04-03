@@ -90,7 +90,7 @@ cd -
 
 echo killing bungeecord and nginx...
 nginx -s stop -c ~/$REPL_SLUG/nginx.conf -g 'daemon off; pid /tmp/nginx/nginx.pid;' -p /tmp/nginx -e /tmp/nginx/error.log
-pkill java
-pkill nginx
+kill -9 java
+kill -9 nginx
 
 echo done!
